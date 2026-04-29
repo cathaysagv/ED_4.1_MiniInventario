@@ -11,3 +11,7 @@ Aplicación de consola en Java para practicar Git y GitHub.
 - `README.md`: documentación básica del proyecto.
 ## Ejecución
 Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
+Cambio desde el clon para probar pull
+
+## Nota de verificación
+Este cambio se ha realizado desde una copia clonada del repositorio.
